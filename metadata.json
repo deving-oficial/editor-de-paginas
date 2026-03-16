@@ -1,0 +1,5 @@
+{
+  "name": "WebCraft Builder",
+  "description": "A visual HTML and CSS page builder with real-time editing, element insertion, and style customization.",
+  "requestFramePermissions": []
+}
